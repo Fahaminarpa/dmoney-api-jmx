@@ -1,0 +1,8 @@
+1664989909669,140,Login,200,OK,dmoney 1-1,text,true,,533,314,1,1,http://dmoney.professionaltrainingbd.com/user/login,130,0,82
+1664989909937,9989,User list,200,OK,dmoney 1-1,text,true,,1825013,412,1,1,http://dmoney.professionaltrainingbd.com/user/list/,7938,0,0
+1664989919927,46,Create user,201,Created,dmoney 1-1,text,true,,592,613,1,1,http://dmoney.professionaltrainingbd.com/user/create,46,0,0
+1664989919977,26,Search newly created user by id,200,OK,dmoney 1-1,text,true,,543,422,1,1,http://dmoney.professionaltrainingbd.com/user/search?id=10248,26,0,0
+1664989920008,29,Search newly created user by phone number,200,OK,dmoney 1-1,text,true,,555,438,1,1,http://dmoney.professionaltrainingbd.com/user/search?phone_number=01900606339,29,0,0
+1664989920038,14,Search newly created user by email,200,OK,dmoney 1-1,text,true,,543,437,1,1,http://dmoney.professionaltrainingbd.com/user/search?email=user6154@test.com,14,0,0
+1664989920053,18,Update user phone number,200,OK,dmoney 1-1,text,true,,381,479,1,1,http://dmoney.professionaltrainingbd.com/user/update/10248,18,0,0
+1664989920072,30,Delete user,200,OK,dmoney 1-1,text,true,,343,441,1,1,http://dmoney.professionaltrainingbd.com/user/delete/10248,30,0,0
